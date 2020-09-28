@@ -1,5 +1,8 @@
 # Thuyan Duong's Resume
 
+## About
+Ann is awesome
+
 ## Work Experience
 
 * Developer at Capital One
