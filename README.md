@@ -1,5 +1,8 @@
 # Thuyan Duong's Resume
 
+## About
+Ann is awesome
+
 ## Education
 * Massaponax High School 
 * University of Virginia
