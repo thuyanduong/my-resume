@@ -13,3 +13,6 @@
 * Play with dogs
 * Eat
 * Travel with my family 
+
+## Skills
+* coding
