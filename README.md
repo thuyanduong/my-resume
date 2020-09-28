@@ -1,4 +1,4 @@
-# Thuyan Duong's Resume
+# Ann Duong's Resume
 
 ## About
 Ann is awesome
