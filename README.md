@@ -14,6 +14,9 @@ Ann is awesome
 * Dog Walking as a free lancer
 * Lead Instructor at The Marcy Lab School
 
+## Poetry
+* rose and red, you know the rest
+
 ## Skills
 * coding
 
