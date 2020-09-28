@@ -10,3 +10,4 @@
 
 * Paint
 * Play with dogs
+* Eat
