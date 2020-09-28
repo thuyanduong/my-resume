@@ -7,13 +7,6 @@
 * Dog Walking as a free lancer
 * Lead Instructor at The Marcy Lab School
 
-## Hobbies
-
-* Paint
-* Play with dogs
-* Eat
-* Travel with my family 
-
 ## Skills
 * coding
 
