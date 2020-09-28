@@ -1,5 +1,9 @@
 # Thuyan Duong's Resume
 
+## Education
+* Massaponax High School 
+* University of Virginia
+
 ## Work Experience
 
 * Developer at Capital One
