@@ -3,6 +3,10 @@
 ## About
 Ann is awesome
 
+## Education
+* Massaponax High School 
+* University of Virginia
+
 ## Work Experience
 
 * Developer at Capital One
